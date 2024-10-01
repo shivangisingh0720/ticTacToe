@@ -1,0 +1,90 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/button00"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:text=""
+            tools:ignore="ButtonStyle,SpeakableTextPresentCheck" />
+
+        <Button
+            android:id="@+id/button01"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:text=""
+            tools:ignore="ButtonStyle,SpeakableTextPresentCheck" />
+
+        <Button
+            android:id="@+id/button02"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:text=""
+            tools:ignore="ButtonStyle,SpeakableTextPresentCheck" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/button10"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:text=""
+            tools:ignore="ButtonStyle,SpeakableTextPresentCheck" />
+
+        <Button
+            android:id="@+id/button11"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:text=""
+            tools:ignore="ButtonStyle,SpeakableTextPresentCheck" />
+
+        <Button
+            android:id="@+id/button12"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:text=""
+            tools:ignore="ButtonStyle,SpeakableTextPresentCheck" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/button20"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:text=""
+            tools:ignore="ButtonStyle,SpeakableTextPresentCheck" />
+
+        <Button
+            android:id="@+id/button21"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:text=""
+            tools:ignore="ButtonStyle,SpeakableTextPresentCheck" />
+
+        <Button
+            android:id="@+id/button22"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:text=""
+            tools:ignore="ButtonStyle,SpeakableTextPresentCheck" />
+    </LinearLayout>
+
+</LinearLayout>
